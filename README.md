@@ -36,3 +36,5 @@ Built with modern CSS gradients, backdrop filters, and smooth animations for a p
 ## 📝 License
 
 MIT License - feel free to use and modify!
+
+Link to the project: https://neuratranslate.netlify.app/
